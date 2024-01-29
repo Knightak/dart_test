@@ -1,4 +1,5 @@
 void main() {
-  bool isDartCool = true;
-  print('Hello $isDartCool');
+  var list = [1, 2, 3];
+
+  print(list[0]);
 }
