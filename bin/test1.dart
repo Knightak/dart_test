@@ -1,5 +1,8 @@
 void main() {
-  var list = [1, 2, 3];
-
-  print(list[0]);
+  var marks = 50;
+  if (marks >= 80) {
+    print("A+");
+  } else {
+    print("A-");
+  }
 }
